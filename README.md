@@ -1,35 +1,73 @@
-# Hi there, I'm Chinmaya Sarangi 👋
+# Hi there, I'm Chinmaya Sarangi! 👋 🚀
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Status-Actively%20Building-brightgreen?style=flat-square" alt="Status"/>
-  <img src="https://img.shields.io/badge/Role-Full--Stack%20%26%20AI%20Engineer-blue?style=flat-square" alt="Role"/>
-  <img src="https://img.shields.io/badge/Focus-RAG%20%26%20Multi--Agent%20Systems-purple?style=flat-square" alt="Focus"/>
+I am a forward-thinking **Software Engineer** specializing in **AI Engineering**, machine learning integration, and scalable software architectures. I love solving algorithmic puzzles, optimizing data workflows, and building intelligent systems that link hardware with predictive AI models.
+
+---
+
+## 💫 About Me
+
+- 🎓 **Education:** B.Tech in Computer Science and Information Technology at **C.V. Raman Global University** (CGPA: 8.12)
+- 📍 **Location:** Bhubaneswar, Odisha, India
+- 💼 **Current Focus:** Large Language Model applications, Retrieval-Augmented Generation (RAG), and multi-agent frameworks.
+- ⚡ **Fun Fact:** I engineered a dual-axis solar tracker that uses Reinforcement Learning to hunt the sun! ☀️
+
+---
+
+## 🛠️ Tech Stack & Toolbox
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | `Python` (NumPy, Pandas), `C`, `JavaScript`, `HTML`, `CSS` |
+| **Frameworks & Libs** | `FastAPI`, `React`, `Scikit-learn`, `TensorFlow basics`, `Tailwind CSS` |
+| **Databases** | `MySQL`, `SQLite`, `MongoDB`, `PostgreSQL` (Vector Embeddings & Pre-processing) |
+| **Tools & Platforms** | `Git`, `GitHub` (CI/CD Pipelines), `VS Code`, `Google Colab`, `Linux` (Bash) |
+
+---
+
+## 🚀 Projects & Experience
+
+### 🧠 Featured Projects
+* **AI-Optimized Dual-Axis Solar Tracker**
+  * Engineered a dual-axis tracker utilizing a **Reinforcement Learning (RL)** framework to outperform traditional LDR logic, increasing energy yield by **45%** through predictive positioning.
+* **Synthetic Weather Time-Series Analysis & Predictive Modeling**
+  * Developed a Python-based data pipeline to simulate and analyze a 15-year weather dataset, implementing automated data cleaning and feature engineering for disaster preparedness.
+* **Adaptive Learning Platform (In Development)**
+  * Designing an AI-driven learning platform integrating the FSRS algorithm with a FastAPI and PostgreSQL backend.
+
+### 💼 Experience & Training
+* **AI & Cloud Integration Intern** | Edunet Foundation *(Microsoft Initiative x AICTE)*
+  * Specialized training in Generative AI, Microsoft Copilot, and AI Cloud architectures.
+* **Self-Driving Car Specialization** | University of Toronto *(Coursera)*
+  * Deep-dived into Motion Planning, Visual Perception, State Estimation, and Localization.
+
+---
+
+## 🏆 Achievements & Certifications
+
+- 🚀 Selected for **Smart India Hackathon 2024**
+- ☁️ Certified in **AI Azure** (Microsoft / Edunet Foundation)
+- 🤖 Core Moderator at **Orcade Hub**
+
+---
+
+## 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CHINMAY2005&show_icons=true&theme=radial" alt="Chinmaya's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHINMAY2005&layout=compact&theme=radial" alt="Top Languages" />
 </p>
 
 ---
 
-### 🚀 About Me
-I am a final-year **Computer Science & Engineering student** and **Full-Stack Developer** passionate about building highly optimized backends, exploring multi-agent AI frameworks, and designing intelligent user experiences. I balance rigorous academic engineering with real-world ecosystem management.
+## 🤝 Let's Connect!
 
-- 🛠️ **Current Focus:** Engineering an adaptive learning platform running a PostgreSQL backend integrated with advanced spacing algorithms (FSRS).
-- 🎓 **Academic Path:** Pursuing a B.Tech in Computer Science and Engineering (Current CGPA: 8.12).
-- 💼 **Community Infrastructure:** Working as a Moderator at **Orcade Hub**, managing collaborative digital spaces.
-- ✉️ **Connect with me:** Reach out if you want to collaborate on FastAPI architectures, RAG pipelines, or web scalability!
+- **Email:** nrusinha@gmail.com
+- **LinkedIn:** [CHINMAYA SARANGI](https://linkedin.com/in/nrusinha-sarangi)
+- **GitHub:** [@CHINMAY2005](https://github.com/CHINMAY2005)
 
----
-
-### 🖥️ System Terminal: Automated Portfolio Metrics
-
-<!-- START_DYNAMIC_SECTION -->
-```bash
-$ python3 -m ai_agent --profile overview
-
-> [Initializing Core Parameters...] Success.
-> [Task]: Fetching active developer profile metrics for chinmaya-sarangi.
-
-📊 Engineering Metrics:
-  ├── Core Frameworks  : FastAPI, React, PostgreSQL, MongoDB, Tailwind CSS
-  ├── Specialized Focus : Multi-Agent Frameworks, RAG Systems, Adaptive Learning Engines
-  └── System State     : Actively building, optimizing, and scaling backend architectures
-
-🤖 Agent Recommendation: Ready for full-stack deployment and intelligent tool integration.
+<p align="center">
+  <i>"The best way to predict the future is to write the code for it."</i> 🚀
+</p>
