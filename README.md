@@ -9,7 +9,7 @@
 ---
 
 ### 🚀 About Me
-I am a third-year **Computer Science & Engineering student** and **Full-Stack Developer** passionate about building highly optimized backends, exploring multi-agent AI frameworks, and designing intelligent user experiences. I balance rigorous academic engineering with real-world ecosystem management.
+I am a final-year **Computer Science & Engineering student** and **Full-Stack Developer** passionate about building highly optimized backends, exploring multi-agent AI frameworks, and designing intelligent user experiences. I balance rigorous academic engineering with real-world ecosystem management.
 
 - 🛠️ **Current Focus:** Engineering an adaptive learning platform running a PostgreSQL backend integrated with advanced spacing algorithms (FSRS).
 - 🎓 **Academic Path:** Pursuing a B.Tech in Computer Science and Engineering (Current CGPA: 8.12).
