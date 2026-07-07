@@ -11,21 +11,7 @@
 
 ###
 
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CHINMAY2005/CHINMAY2005/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CHINMAY2005/CHINMAY2005/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CHINMAY2005/CHINMAY2005/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-</picture>
-
-###
-
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-###
-
+<br>
 
 # Hi there, I'm Chinmaya Sarangi! 
 
@@ -91,3 +77,13 @@ I am a forward-thinking **Software Engineer** specializing in **AI Engineering**
 <p align="center">
   <i>"The best way to predict the future is to write the code for it."</i> 🚀
 </p>
+
+
+###
+
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
