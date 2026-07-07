@@ -75,7 +75,7 @@ I am a forward-thinking **Software Engineer** specializing in **AI Engineering**
 
 ## 📊 My GitHub Stats
 ![](https://github-readme-stats.shion.dev/api?username=CHINMAY2005&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)
-![](https://streak-stats.demolab.com/?user=CHINMAY2005&theme=monokai&hide_border=false)
+<!-- ![](https://streak-stats.demolab.com/?user=CHINMAY2005&theme=monokai&hide_border=false) -->
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=CHINMAY2005&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
