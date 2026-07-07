@@ -13,16 +13,11 @@
 
 
 ###
-
-## My Contribution Graph
-
-<!-- [game-name] -->
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CHINMAY2005/CHINMAY2005/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CHINMAY2005/CHINMAY2005/output/minesweeper-contribution-graph.svg">
-    <img alt="[game-name] contribution graph" src="https://raw.githubusercontent.com/CHINMAY2005/CHINMAY2005/output/bomberman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CHINMAY2005/CHINMAY2005/output/pacman-contribution-graph.svg">
+    <img alt="[game-name] contribution graph" src="https://raw.githubusercontent.com/CHINMAY2005/CHINMAY2005/output/pacman-contribution-graph.svg">
 </picture>
-
 
 
 ###
@@ -40,7 +35,7 @@ I am a forward-thinking **Software Engineer** specializing in **AI Engineering**
 
 ## 💫 About Me
 
-- 🎓 **Education:** B.Tech in Computer Science and Information Technology at **C.V. Raman Global University** (CGPA: 8.42)
+- 🎓 **Education:** B.Tech in Computer Science and Information Technology at **C.V. Raman Global University**
 - 📍 **Location:** Bhubaneswar, Odisha, India
 - 💼 **Current Focus:** Large Language Model applications, Retrieval-Augmented Generation (RAG), and multi-agent frameworks.
 - ⚡ **Fun Fact:** I engineered a dual-axis solar tracker that uses Reinforcement Learning to hunt the sun! ☀️
