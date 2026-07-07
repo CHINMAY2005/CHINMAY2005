@@ -11,6 +11,25 @@
 
 ###
 
+
+###
+
+## My Contribution Graph
+
+<!-- [game-name] -->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CHINMAY2005/CHINMAY2005/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CHINMAY2005/CHINMAY2005/output/minesweeper-contribution-graph.svg">
+    <img alt="[game-name] contribution graph" src="https://raw.githubusercontent.com/CHINMAY2005/CHINMAY2005/output/bomberman-contribution-graph.svg">
+</picture>
+
+
+
+###
+
+
+
+
 <br>
 
 # Hi there, I'm Chinmaya Sarangi! 
